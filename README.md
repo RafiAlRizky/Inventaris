@@ -1,2 +1,2 @@
 # Inventaris
-Inventaris sederhana menggunakan HTML dan CSS
+Inventaris sederhana menggunakan PHP dan CSS
